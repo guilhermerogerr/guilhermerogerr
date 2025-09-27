@@ -29,6 +29,6 @@ Eu me chamo Guilherme Roger, tenho 18 anos e sou de São Paulo. Sou estudante de
 ### 📊 Estatísticas
 
 <p>
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=guilhermerogerr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerogerr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=guilhermerogerr&show_icons=true&theme=transparent"/>
+  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerogerr&layout=donut"/>
 </p>
