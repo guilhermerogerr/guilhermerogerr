@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Roger
 
-Eu me chamo Guilherme Roger, tenho 18 anos e sou de São Paulo. Sou estudante de Ciência da Computação (início em 2025) e apaixonado por tecnologia. Atualmente estudo Python, HTML e CSS, sempre buscando desenvolver projetos práticos e expandir meus conhecimentos. Meu foco é crescer como desenvolvedor, contribuir para projetos relevantes e construir uma trajetória sólida no mundo da tecnologia.
+Me chamo Guilherme Roger, tenho 18 anos e sou de São Paulo. Sou estudante de Ciência da Computação (início em 2025) e apaixonado por tecnologia. Atualmente estudo Python, HTML e CSS, sempre buscando desenvolver projetos práticos e expandir meus conhecimentos. Meu foco é crescer como desenvolvedor, contribuir para projetos relevantes e construir uma trajetória sólida no mundo da tecnologia.
 
 <p align="left">
   <a href="https://www.instagram.com/eai_rogerzs/">
