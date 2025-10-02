@@ -4,7 +4,7 @@ Me chamo Guilherme Roger, tenho 18 anos e sou de São Paulo. Sou estudante de Ci
 
 <p align="left">
   <a href="https://www.instagram.com/eai_rogerzs/">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:guilhermerogerr@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
